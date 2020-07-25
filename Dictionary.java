@@ -32,7 +32,8 @@ public class Dictionary{
             }
             if(u==x.length){
                 System.out.println("The Word containing the above keyword is not found..");
-                System.exit(0);
+                System.out.println("Try again");
+                Dictionary.main(str);
             }
             if (j == 0) {
                 System.out.println("The Word containing the above keyword is not found..");
