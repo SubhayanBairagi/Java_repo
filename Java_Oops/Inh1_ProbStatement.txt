@@ -1,6 +1,7 @@
 
 Problem Link: https://practice.geeksforgeeks.org/problems/java-inheritance/1#
 
+inheritance Problem
 Consider the following class cls1:
 class cls1
 {
